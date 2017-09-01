@@ -1,4 +1,6 @@
-# BIMBox.Viewing.API.OBVApi.getPathByNodeId
+> # BIMBox.Viewing.API.OBVApi.getPathByNodeId
+>
+> ---
 
 #### 通过 nodeId 获取一个对象的路径。
 

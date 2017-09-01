@@ -32,6 +32,7 @@
   * [BIMBox.Viewing.API.OBVApi.fitToView](methods/bimboxviewingapiobvapifittoview.md)
   * [BIMBox.Viewing.API.OBVApi.getProperties](methods/bimboxviewingapiobvapigetproperties.md)
   * [BIMBox.Viewing.API.OBVApi.getObjectTree](methods/bimboxviewingapiobvapigetobjecttree.md)
+  * [BIMBox.Viewing.API.OBVApi.search](methods/bimboxviewingapiobvapisearch.md)
 
 ## Event
 

@@ -1,4 +1,6 @@
-# BIMBox.Viewing.API.OBVApi.getModelIdByName
+> # BIMBox.Viewing.API.OBVApi.getModelIdByName
+>
+> ---
 
 #### 通过模型名称获取该模型的 Id。
 

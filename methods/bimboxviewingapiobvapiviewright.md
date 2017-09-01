@@ -1,6 +1,8 @@
-#  BIMBox.Viewing.API.OBVApi.viewRight
+> # BIMBox.Viewing.API.OBVApi.viewRight
+>
+> ---
 
-####             设置 OBV 为右视图。
+#### 设置 OBV 为右视图。
 
 
 

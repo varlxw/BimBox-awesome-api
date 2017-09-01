@@ -1,6 +1,8 @@
-# BIMBox.Viewing.API.OBVApi.setViewFromFile
+> # BIMBox.Viewing.API.OBVApi.setViewFromFile
+>
+> ---
 
-####      设置当前视角为模型文件的初始视角。
+#### 设置当前视角为模型文件的初始视角。
 
 
 

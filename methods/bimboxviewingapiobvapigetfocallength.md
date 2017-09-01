@@ -1,6 +1,8 @@
-#  BIMBox.Viewing.API.OBVApi.getFocalLength
+> # BIMBox.Viewing.API.OBVApi.getFocalLength
+>
+> ---
 
-####      获取焦距。单位为mm
+#### 获取焦距。单位为mm
 
 
 

@@ -1,4 +1,6 @@
-## BIMBox.Viewing.API.initializeViewer
+> # BIMBox.Viewing.API.initializeViewer
+>
+> ---
 
 #### 将 OBV 视图嵌入到自己的页面中。初始化一个OBV视图并加载指定模型
 

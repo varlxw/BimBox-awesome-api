@@ -1,6 +1,8 @@
-#  BIMBox.Viewing.API.OBVApi.viewTop
+> # BIMBox.Viewing.API.OBVApi.viewTop
+>
+> ---
 
-####       设置 OBV 为顶视图
+#### 设置 OBV 为顶视图
 
 
 

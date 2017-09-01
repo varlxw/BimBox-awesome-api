@@ -1,4 +1,6 @@
-# BIMBox.Viewing.API.FULLSCREEN\_MOOE\_EVENT
+> # BIMBox.Viewing.API.FULLSCREEN\_MOOE\_EVENT
+>
+> ---
 
 #### 全屏切换后，触发此事件
 

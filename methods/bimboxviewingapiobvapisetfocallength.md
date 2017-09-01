@@ -1,6 +1,8 @@
-#  BIMBox.Viewing.API.OBVApi.setFocalLength
+> # BIMBox.Viewing.API.OBVApi.setFocalLength
+>
+> ---
 
-####           设置焦距
+#### 设置焦距
 
 | 名称 | 类型 | 描述 |
 | :--- | :--- | :--- |

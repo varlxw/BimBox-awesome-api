@@ -1,6 +1,8 @@
-#  BIMBox.Viewing.API.OBVApi.setViewToOrthographic
+> # BIMBox.Viewing.API.OBVApi.setViewToOrthographic
+>
+> ---
 
-####             设置 OBV 为平行视图。
+#### 设置 OBV 为平行视图。
 
 
 

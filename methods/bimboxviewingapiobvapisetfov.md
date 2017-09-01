@@ -1,10 +1,10 @@
-#  BIMBox.Viewing.API.OBVApi.setFOV
+> # BIMBox.Viewing.API.OBVApi.setFOV
+>
+> ---
 
 #### 
 
-####        设置视场角角度。
-
-
+#### 设置视场角角度。
 
 | 名称 | 类型 | 描述 |
 | :--- | :--- | :--- |

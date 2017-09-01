@@ -1,6 +1,6 @@
-# BIMBox.Viewing.API.OBVApi.getObjectTre
-
----
+> # BIMBox.Viewing.API.OBVApi.getObjectTre
+>
+> ---
 
 #### 获取模型树。modelId=undefined 时，默认取第一个模型。
 

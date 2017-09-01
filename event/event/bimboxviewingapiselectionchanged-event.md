@@ -1,4 +1,6 @@
-# BIMBox.Viewing.API.SELECTION\_CHANGED\_EVENT
+> # BIMBox.Viewing.API.SELECTION\_CHANGED\_EVENT
+>
+> ---
 
 #### OBV 视图的选择集改变时（如用户在视图中通过鼠标选中对象时），触发此消息。
 
