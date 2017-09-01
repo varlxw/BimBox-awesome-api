@@ -19,7 +19,7 @@ const options = {
     refreshToken: getToken ? getAccessToken : undefined, // 刷新 Token 的回调，后台 API 可以提供刷新 Token的函数，而不是使用获取 Token 的函数。
     documentId: this.urn, // 如果加载多个模型，需使用逗号隔开每个 urn。
     globalOffset: this.globalOffset, // 指定模型的位置。如果多个模型，则以逗号隔开；必须与 documentId 指定的模型个数一致。
-    fullscreen: this.fullscreen
+    fullscreen: this.fullscreen // true 是全屏 false 是非全屏
  }
 ```
 
