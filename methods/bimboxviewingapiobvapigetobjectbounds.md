@@ -1,8 +1,8 @@
-> # BIMBox.Viewing.API.OBVApi.toggleVisibility
+> #  BIMBox.Viewing.API.OBVApi.getObjectBounds
 >
 > ---
 
-#### 如果对象已显示，则隐藏；如果对象已隐藏，则显示。
+####     获取对象包围盒。
 
 | 名称 | 类型 | 描述 |
 | :--- | :--- | :--- |

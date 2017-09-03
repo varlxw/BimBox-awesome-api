@@ -48,6 +48,20 @@
   * [BIMBox.Viewing.API.OBVApi.show](methods/bimboxviewingapiobvapishow.md)
   * [BIMBox.Viewing.API.OBVApi.showAll](methods/bimboxviewingapiobvapishowall.md)
   * [BIMBox.Viewing.API.OBVApi.toggleVisibility](methods/bimboxviewingapiobvapitogglevisibility.md)
+  * [BIMBox.Viewing.API.OBVApi.areAllVisible](methods/bimboxviewingapiobvapiareallvisible.md)
+  * [BIMBox.Viewing.API.OBVApi.transformObjects](methods/bimboxviewingapiobvapitransformobjects.md)
+  * [BIMBox.Viewing.API.OBVApi.animatedTransformObjectsByVectors](methods/bimboxviewingapiobvapianimatedtransformobjectsbyvectors.md)
+  * [BIMBox.Viewing.API.OBVApi.resetObjectTransformationsById](methods/bimboxviewingapiobvapiresetobjecttransformationsbyid.md)
+  * [BIMBox.Viewing.API.OBVApi.resetObjectTransformations](methods/bimboxviewingapiobvapiresetobjecttransformations.md)
+  * [BIMBox.Viewing.API.OBVApi.setObjectsColor](methods/bimboxviewingapiobvapisetobjectscolor.md)
+  * [BIMBox.Viewing.API.OBVApi.restoreObjectsColor](methods/bimboxviewingapiobvapirestoreobjectscolor.md)
+  * [BIMBox.Viewing.API.OBVApi.getObjectBounds](methods/bimboxviewingapiobvapigetobjectbounds.md)
+  * [BIMBox.Viewing.API.OBVApi.getModelBounds](methods/bimboxviewingapiobvapigetmodelbounds.md)
+  * [BIMBox.Viewing.API.OBVApi.worldToClient](methods/bimboxviewingapiobvapiworldtoclient.md)
+  * [BIMBox.Viewing.API.OBVApi.clientToWorld](methods/bimboxviewingapiobvapiclienttoworld.md)
+  * [BIMBox.Viewing.API.OBVApi.containsOverlayScene](methods/bimboxviewingapiobvapicontainsoverlayscene.md)
+  * [BIMBox.Viewing.API.OBVApi.createOverlayScene](methods/bimboxviewingapiobvapicreateoverlayscene.md)
+  * [BIMBox.Viewing.API.OBVApi.clearOverlayScene](methods/bimboxviewingapiobvapiclearoverlayscene.md)
 
 ## Event
 

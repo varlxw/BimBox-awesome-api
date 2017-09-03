@@ -1,12 +1,15 @@
-> # BIMBox.Viewing.API.OBVApi.toggleVisibility
+> #  BIMBox.Viewing.API.OBVApi.setObjectsColor 
 >
 > ---
 
-#### 如果对象已显示，则隐藏；如果对象已隐藏，则显示。
+#### 临时设置对象颜色。
 
 | 名称 | 类型 | 描述 |
 | :--- | :--- | :--- |
 | nodeId | object |   nodeId、nodeId\[\]或 dbId、dbId\[\]。为 dbId 时，默认 取第一个模型。 |
+| red | number |   0~255 |
+| green | number |   0~255 |
+| blue | number | 0~255 |
 
 
 

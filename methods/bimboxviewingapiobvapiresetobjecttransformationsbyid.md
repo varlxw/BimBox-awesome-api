@@ -1,8 +1,8 @@
-> # BIMBox.Viewing.API.OBVApi.toggleVisibility
->
-> ---
+> #  BIMBox.Viewing.API.OBVApi.resetObjectTransformationsById
 
-#### 如果对象已显示，则隐藏；如果对象已隐藏，则显示。
+---
+
+####  恢复对象到原始位置。
 
 | 名称 | 类型 | 描述 |
 | :--- | :--- | :--- |
