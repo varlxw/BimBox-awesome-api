@@ -1,4 +1,4 @@
-> #  BIMBox.Viewing.API.OBVApi.setActiveNavigationTool 
+> # BIMBox.Viewing.API.OBVApi.setActiveNavigationTool
 >
 > ---
 
@@ -6,7 +6,7 @@
 
 | 名称 | 类型 | 描述 |
 | :--- | :--- | :--- |
-| toolName | string |   “orbit” / “pan” / “dolly” / “walk” |
+| toolName | string | “orbit” / “pan” / “dolly” / “walk” |
 
 
 
