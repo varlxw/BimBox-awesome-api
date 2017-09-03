@@ -71,6 +71,14 @@
   * [BIMBox.Viewing.API.OBVApi.setActiveNavigationTool](methods/bimboxviewingapiobvapisetactivenavigationtool.md)
   * [BIMBox.Viewing.API.OBVApi.getActiveNavigationTool](methods/bimboxviewingapiobvapigetactivenavigationtool.md)
   * [BIMBox.Viewing.API.OBVApi.setDefaultNavigationTool](methods/bimboxviewingapiobvapisetdefaultnavigationtool.md)
+  * [BIMBox.Viewing.API.OBVApi.getDefaultNavigationToolName](methods/bimboxviewingapiobvapigetdefaultnavigationtoolname.md)
+  * [BIMBox.Viewing.API.OBVApi.OBVConfig.setBackgroundColor](methods/bimboxviewingapiobvapiobvconfigsetbackgroundcolor.md)
+  * [BIMBox.Viewing.API.OBVApi.OBVConfig.setRenderingMode](methods/bimboxviewingapiobvapiobvconfigsetrenderingmode.md)
+  * [BIMBox.Viewing.API.OBVApi.OBVConfig.getRenderingMode](methods/bimboxviewingapiobvapiobvconfiggetrenderingmode.md)
+  * [BIMBox.Viewing.API.OBVApi.OBVConfig.setWalkMode](methods/bimboxviewingapiobvapiobvconfigsetwalkmode.md)
+  * [BIMBox.Viewing.API.OBVApi.OBVConfig.getWalkMode](methods/bimboxviewingapiobvapiobvconfiggetwalkmode.md)
+  * [BIMBox.Viewing.API.OBVApi.OBVConfig.registerContextMenuCallback](methods/bimboxviewingapiobvapiobvconfigregistercontextmenucallback.md)
+  * [BIMBox.Viewing.API.OBVApi.OBVConfig.unregisterContextMenuCallback](methods/bimboxviewingapiobvapiobvconfigunregistercontextmenucallback.md)
 
 ## Event
 
