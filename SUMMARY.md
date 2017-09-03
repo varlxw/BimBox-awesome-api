@@ -67,6 +67,8 @@
   * [BIMBox.Viewing.API.OBVApi.addOverlays](methods/bimboxviewingapiobvapiaddoverlays.md)
   * [BIMBox.Viewing.API.OBVApi.removeOverlay](methods/bimboxviewingapiobvapiremoveoverlay.md)
   * [BIMBox.Viewing.API.OBVApi.removeOverlays](methods/bimboxviewingapiobvapiremoveoverlays.md)
+  * [BIMBox.Viewing.API.OBVApi.invalidate](methods/bimboxviewingapiobvapiinvalidate.md)
+  * [BIMBox.Viewing.API.OBVApi.setActiveNavigationTool](methods/bimboxviewingapiobvapisetactivenavigationtool.md)
 
 ## Event
 
