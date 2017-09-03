@@ -43,6 +43,11 @@
   * [BIMBox.Viewing.API.OBVApi.getSelectionVisibility](methods/bimboxviewingapiobvapigetselectionvisibility.md)
   * [BIMBox.Viewing.API.OBVApi.getSelection](methods/bimboxviewingapiobvapigetselection.md)
   * [BIMBox.Viewing.API.OBVApi.setSelectionMode](methods/bimboxviewingapiobvapisetselectionmode.md)
+  * [BIMBox.Viewing.API.OBVApi.getHidden](methods/bimboxviewingapiobvapigethidden.md)
+  * [BIMBox.Viewing.API.OBVApi.hide](methods/bimboxviewingapiobvapihide.md)
+  * [BIMBox.Viewing.API.OBVApi.show](methods/bimboxviewingapiobvapishow.md)
+  * [BIMBox.Viewing.API.OBVApi.showAll](methods/bimboxviewingapiobvapishowall.md)
+  * [BIMBox.Viewing.API.OBVApi.toggleVisibility](methods/bimboxviewingapiobvapitogglevisibility.md)
 
 ## Event
 
