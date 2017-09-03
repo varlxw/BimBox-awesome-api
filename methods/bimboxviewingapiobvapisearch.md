@@ -2,7 +2,7 @@
 >
 > ---
 
-####               在模型属性值中搜索给定的字符串。modelId=undefined 时，默认取第一个模型。
+#### 在模型属性值中搜索给定的字符串。modelId=undefined 时，默认取第一个模型。
 
 | 名称 | 类型 | 描述 |
 | :--- | :--- | :--- |
@@ -10,7 +10,7 @@
 | text | String |  |
 | onSuccessCallback | Function\(idArray\) |  |
 | onErrorCallback | Function\(int, string\) |  |
-| attrbuteNames | string\[\] |  |
+| attrbuteNames | string\[\] | 1 |
 
 
 

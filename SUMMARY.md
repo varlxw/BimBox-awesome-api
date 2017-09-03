@@ -33,6 +33,16 @@
   * [BIMBox.Viewing.API.OBVApi.getProperties](methods/bimboxviewingapiobvapigetproperties.md)
   * [BIMBox.Viewing.API.OBVApi.getObjectTree](methods/bimboxviewingapiobvapigetobjecttree.md)
   * [BIMBox.Viewing.API.OBVApi.search](methods/bimboxviewingapiobvapisearch.md)
+  * [BIMBox.Viewing.API.OBVApi.getIsolation](methods/bimboxviewingapiobvapigetisolation.md)
+  * [BIMBox.Viewing.API.OBVApi.setIsolation](methods/bimboxviewingapiobvapisetisolation.md)
+  * [BIMBox.Viewing.API.OBVApi.toggleSelect](methods/bimboxviewingapiobvapitoggleselect.md)
+  * [BIMBox.Viewing.API.OBVApi.select](methods/bimboxviewingapiobvapiselect.md)
+  * [BIMBox.Viewing.API.OBVApi.deselect](methods/bimboxviewingapiobvapideselect.md)
+  * [BIMBox.Viewing.API.OBVApi.clearSelection](methods/bimboxviewingapiobvapiclearselection.md)
+  * [BIMBox.Viewing.API.OBVApi.getSelectionCount](methods/bimboxviewingapiobvapigetselectioncount.md)
+  * [BIMBox.Viewing.API.OBVApi.getSelectionVisibility](methods/bimboxviewingapiobvapigetselectionvisibility.md)
+  * [BIMBox.Viewing.API.OBVApi.getSelection](methods/bimboxviewingapiobvapigetselection.md)
+  * [BIMBox.Viewing.API.OBVApi.setSelectionMode](methods/bimboxviewingapiobvapisetselectionmode.md)
 
 ## Event
 
