@@ -63,6 +63,10 @@
   * [BIMBox.Viewing.API.OBVApi.createOverlayScene](methods/bimboxviewingapiobvapicreateoverlayscene.md)
   * [BIMBox.Viewing.API.OBVApi.clearOverlayScene](methods/bimboxviewingapiobvapiclearoverlayscene.md)
   * [BIMBox.Viewing.API.OBVApi.removeOverlayScene](methods/bimboxviewingapiobvapiremoveoverlayscene.md)
+  * [BIMBox.Viewing.API.OBVApi.addOverlay](methods/bimboxviewingapiobvapiaddoverlay.md)
+  * [BIMBox.Viewing.API.OBVApi.addOverlays](methods/bimboxviewingapiobvapiaddoverlays.md)
+  * [BIMBox.Viewing.API.OBVApi.removeOverlay](methods/bimboxviewingapiobvapiremoveoverlay.md)
+  * [BIMBox.Viewing.API.OBVApi.removeOverlays](methods/bimboxviewingapiobvapiremoveoverlays.md)
 
 ## Event
 
