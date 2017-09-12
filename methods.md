@@ -122,7 +122,9 @@
 
 [BIMBox.Viewing.API.OBVApi.invalidate](/methods/bimboxviewingapiobvapiinvalidate.md)   刷新视图
 
-[BIMBox.Viewing.API.OBVApi.setActiveNavigationTool](/methods/bimboxviewingapiobvapisetactivenavigationtool.md) 设置当前激活的工具。[BIMBox.Viewing.API.OBVApi.getActiveNavigationTool  ](/methods/bimboxviewingapiobvapigetactivenavigationtool.md)获取当前激活的工具名称。
+[BIMBox.Viewing.API.OBVApi.setActiveNavigationTool](/methods/bimboxviewingapiobvapisetactivenavigationtool.md) 设置当前激活的工具。
+
+[BIMBox.Viewing.API.OBVApi.getActiveNavigationTool  ](/methods/bimboxviewingapiobvapigetactivenavigationtool.md)获取当前激活的工具名称。
 
 [BIMBox.Viewing.API.OBVApi.setDefaultNavigationTool](/methods/bimboxviewingapiobvapisetdefaultnavigationtool.md)  设置缺省的工具。
 
@@ -141,28 +143,4 @@
 [BIMBox.Viewing.API.OBVApi.OBVConfig.registerContextMenuCallback](/methods/bimboxviewingapiobvapiobvconfigregistercontextmenucallback.md)  注册自定义视图环境菜单的回调函数。
 
 [BIMBox.Viewing.API.OBVApi.OBVConfig.unregisterContextMenuCallback](/methods/bimboxviewingapiobvapiobvconfigunregistercontextmenucallback.md)  删除已注册的自定义视图环境菜单回调函数。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
