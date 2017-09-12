@@ -1,8 +1,8 @@
-> #  BIMBox.Viewing.API.OBVApi.OBVConfig.unregisterContextMenuCallback
+> # BIMBox.Viewing.API.OBVApi.OBVConfig.unregisterContextMenuCallback
 >
 > ---
 
-####  删除已注册的自定义视图环境菜单回调函数。
+#### 删除已注册的自定义视图环境菜单回调函数。
 
 | 名称 | 类型 | 描述 |
 | :--- | :--- | :--- |
